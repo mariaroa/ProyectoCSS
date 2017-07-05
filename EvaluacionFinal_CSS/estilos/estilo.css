@@ -150,7 +150,6 @@ footer{
 		}
 	}
 }
-}
 
 @media all and (min-width:300px) and (max-width:899px){
 	header h1{
@@ -171,6 +170,7 @@ footer{
 	.imagen3{
 		order: 2;
 	}
+	
 	footer{
 		border-radius: 0 0 10px 10px;
 		background-color: #C6d5C5;
